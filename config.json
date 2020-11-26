@@ -1,13 +1,13 @@
 ﻿{
     "connectionString": "mongodb://localhost:27017/hisja-api",
     "secret": "4a75ce5ba930478f878c83849d8a13df7840486cabf84428b3cdec5f2f4a370d",
-    "emailFrom": "caterina63@ethereal.email",
+    "emailFrom": "<username>@ethereal.email",
     "smtpOptions": {
         "host": "smtp.ethereal.email",
         "port": 587,
         "auth": {
-            "user": "caterina63@ethereal.email",
-            "pass": "kMXj2HxURh9hTFPwCV"
+            "user": "<email>",
+            "pass": "<password>"
         }
     }
 }
